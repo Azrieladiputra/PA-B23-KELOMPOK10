@@ -14,7 +14,8 @@ User diharuskan login username dan password dari data yang ada di pedagang. Sete
 #Struktur Project#
 ![flowchart kemitraan franchise-Menu Login drawio](https://github.com/Azrieladiputra/PA-B23-KELOMPOK10/assets/144753236/2a941808-fbba-4422-94ae-bff2589e554c)
 ![flowchart kemitraan franchise-Menu admin drawio](https://github.com/Azrieladiputra/PA-B23-KELOMPOK10/assets/144753236/2618d2f9-add1-439b-8688-2bf5463b3db8)
-![flowchart kemitraan franchise-menu user drawio (1)](https://github.com/Azrieladiputra/PA-B23-KELOMPOK10/assets/144753236/30710f5e-9ea0-4f70-82a7-91f6e108473d)
+![flowchart kemitraan franchise-menu user drawio (2)](https://github.com/Azrieladiputra/PA-B23-KELOMPOK10/assets/144753236/0b82aa29-09e5-40e5-8a39-11985891606d)
+
 
 
 
